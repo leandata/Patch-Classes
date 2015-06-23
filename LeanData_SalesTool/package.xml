@@ -8,5 +8,9 @@
     	<members>SalesAlignmentTool</members>
     	<name>ApexPage</name>
     </types>
+    <types>
+    	<members>bootstrap_v3_3_4</members>
+    	<name>StaticResource</name>
+    </types>
     <version>33.0</version>
 </Package>
