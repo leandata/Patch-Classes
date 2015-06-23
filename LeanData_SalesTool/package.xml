@@ -11,6 +11,7 @@
     <types>
     	<members>bootstrap_v3_3_4</members>
     	<members>JqueryUI</members>
+    	<members>images</members>
     	<name>StaticResource</name>
     </types>
     <version>33.0</version>
